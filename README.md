@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**328gili/328gili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# היי, אני גילי ארלבוים 👋
 
-Here are some ideas to get you started:
+### מפתחת תוכנה Full-Stack | התמחות ב-.NET ו-Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+אני מפתחת Full-Stack אנליטית מאוד עם תשוקה לקוד נקי וארכיטקטורת אינטרנט מודרניות. נכון לעכשיו, אני תורמת למערכות ניהול פנסיה במשרד החינוך, תוך התמקדות במערכות בקנה מידה גדול ואינטגרציה של בינה מלאכותית.
+
+---
+
+* 🔭 **מוקד נוכחי:** פיתוח מערכות ERP מורכבות באמצעות .NET 9 ו-Angular 18.
+* 🎓 **השכלה:** מהנדס תוכנה (Handesai) - בוגר תואר ראשון בהצטיינות יתרה.
+* 🤖 **חובב בינה מלאכותית:** ניסיון בסוכני בינה מלאכותית, ויישומים של תואר שני במשפטים. חובב בינה מלאכותית: GitHub Copilot.
+* 🌐 **שפות:** דוברת עברית שפת אם ואנגלית שפת אם.
+
+---
+## 🛠️ ערימה טכנית 💻
+
+* **צד אחורי:** `C#` `.NET 9` `Node.js` `Java` `Spring` `Python` `RESTful APIs`
+* **ממשק משתמש:** `Angular 18` `React` `TypeScript` `HTML5/CSS3`
+* **נתונים וענן:** `Oracle` `SQL Server` `MongoDB` `AWS` `NoSql`
+* **פיתוח מערכות וכלים:** `Git/GitHub` `Docker` `Azure DevOps` `Postman`
+
+## 🤝 התחברו איתי
+
+* 📧 **דוא"ל:** [328gili@gmail.com](mailto:328gili@gmail.com)
+* 🐙 **GitHub:** [github.com/328gili](https://github.com/328gili)
+
+</div>
